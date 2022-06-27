@@ -1,0 +1,28 @@
+.cardWrapper {
+    padding: 30px;
+    
+  }
+
+.title {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.priceContainer {
+  flex-direction: row;
+  display: flex;
+}
+
+.totalPrice {
+  margin-left: auto;
+}
+
+.buttonContainer {
+  display: flex;
+  
+}
+
+
+.button {
+  margin: 15px;
+}
